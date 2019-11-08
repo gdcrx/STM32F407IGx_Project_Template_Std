@@ -1,0 +1,2 @@
+# STM32F407IGx_Project_Template_Std
+STM32F407IGx 项目工程模板，基于标准库STM32F4xx_DSP_StdPeriph_Lib_V1.8.0，Keil_V5.25开发环境。
